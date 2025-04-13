@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "label": "This is item 1"
+    },
+    {
+      "id": 2,
+      "label": "This is item 2"
+    },
+    {
+      "id": 3,
+      "label": "This is item 3"
+    },
+    {
+      "id": 4,
+      "label": "This is item 4"
+    },
+    {
+      "id": 5,
+      "label": "This is item 5"
+    }
+  ]
+}

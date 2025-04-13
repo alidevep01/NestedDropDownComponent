@@ -1,0 +1,15 @@
+button.dropDown-btn {
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.2rem;
+  border-radius: 0.5rem;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  display: flex;
+  gap: 1rem;
+}
+
+.dropDown-btn:hover {
+  cursor: pointer;
+  border: 1px solid black;
+}
